@@ -9,8 +9,7 @@
 ## 🌟 Featured Projects
 
 ### 🧠 [Formint](https://formint.vercel.app)
-SaaS-style intelligent form system with pre-defined categories, real-time Supabase backend, and user dashboards  
-🔗 [Showcase Repo](https://github.com/shahnawazsk/formint-showcase)
+SaaS-style intelligent form system with pre-defined categories, real-time Supabase backend
 
 ### 🖼️ [Pixalo](https://pixalo.vercel.app/)
 Image search app using the Unsplash API, with pagination and download support  
