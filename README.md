@@ -9,7 +9,7 @@
 ## 🌟 Featured Projects
 
 ### 🧠 [Formint](https://formint.vercel.app)
-SaaS-style intelligent form system with pre-defined categories, real-time Supabase backend
+Formint is a production-grade HR SaaS platform including authentication, multi-tenant architecture, role-based access control (RBAC), leave system, employee onboarding, team management, and real-time analytics. Built with React, JavaScript, Tailwind CSS, Supabase plus more modern stacks.
 
 ### 🖼️ [Pixalo](https://pixalo.vercel.app/)
 Image search app using the Unsplash API, with pagination and download support  
