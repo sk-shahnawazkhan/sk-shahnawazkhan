@@ -8,8 +8,8 @@ Work spans across dashboards, data-driven interfaces, and complex frontend workf
 
 ---
 
-Portfolio: https://shahnawazkhan.vercel.app/
-LinkedIn: https://www.linkedin.com/in/sk-shahnawazkhan/
+Portfolio: https://shahnawazkhan.vercel.app/  
+LinkedIn: https://www.linkedin.com/in/sk-shahnawazkhan/  
 Oclona System Summary: https://github.com/sk-shahnawazkhan/oclona-summary
 
 ---
