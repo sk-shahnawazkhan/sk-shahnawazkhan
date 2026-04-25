@@ -1,39 +1,17 @@
-# 👋 Hello, I'm Shahnawaz Khan
+# Shahnawaz Khan - Senior Frontend Engineer
 
-💻 **Senior Frontend Developer | 9+ Years of Experience**  
-🚀 Specialized in **React.js**, **Next.js**, **Tailwind CSS**, and building modern, scalable, responsive UIs.  
-📌 Actively seeking **Senior Frontend / React Developer** roles (Remote)
+Focused on building product systems with predictable behavior, scalable architecture, and real-world workflows.
 
----
+Currently building a multi-tenant HR SaaS system (Oclona) with tenant-scoped architecture, RLS-based access control, and structured onboarding flows.
 
-## 🌟 Featured Projects
-
-### 🧠 [Formint](https://formint.vercel.app)
-Formint is a production-grade HR SaaS platform including authentication, multi-tenant architecture, role-based access control (RBAC), leave system, employee onboarding, team management, and real-time analytics. Built with React, JavaScript, Tailwind CSS, Supabase plus more modern stacks.
-
-### 🖼️ [Pixalo](https://pixalo.vercel.app/)
-Image search app using the Unsplash API, with pagination and download support  
-🔗 [Repo](https://github.com/sk-shahnawazkhan/pixalo)
-
-### 🌦️ [Weathio](https://weathio.vercel.app/)
-Real-time weather dashboard using OpenWeatherMap API  
-🔗 [Repo](https://github.com/sk-shahnawazkhan/weathio)
+Work spans across dashboards, data-driven interfaces, and complex frontend workflows with an emphasis on system-level thinking rather than isolated UI components.
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Languages**: JavaScript (ES6+), HTML5, CSS3
-- **Libraries & Frameworks**: React.js, Next.js, React Router
-- **Styling**: Tailwind CSS, Bootstrap, CSS Modules
-- **Database**: Supabase (Auth, API, Table Editor, Storage)
-- **Tools**: Git, GitHub, Vercel, Netlify
-- **Other**: Yup, API integration, RLS policies, CI/CD Workflow
+Portfolio: https://shahnawazkhan.vercel.app/
+LinkedIn: https://www.linkedin.com/in/sk-shahnawazkhan/
+Oclona System Summary: https://github.com/sk-shahnawazkhan/oclona-summary
 
 ---
 
-## 📫 Contact Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sk-shahnawazkhan/)
-- 🌐 [Portfolio](https://shahnawazkhan.vercel.app/)
-- ✉️ Email: 1990.shahnawaz@gmail.com
+Open to product engineering roles and thoughtful conversations.
