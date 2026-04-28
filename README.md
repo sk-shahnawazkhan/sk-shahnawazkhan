@@ -1,4 +1,4 @@
-# Shahnawaz Khan - Senior Frontend Engineer
+## Shahnawaz Khan - Senior Frontend Engineer
 
 Focused on building product systems with predictable behavior, scalable architecture, and real-world workflows.
 
@@ -14,4 +14,4 @@ Oclona System Summary: https://github.com/sk-shahnawazkhan/oclona-summary
 
 ---
 
-Open to product engineering roles and thoughtful conversations.
+Open to product-focused frontend engineering roles and thoughtful conversations.
